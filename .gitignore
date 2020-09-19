@@ -1,0 +1,6 @@
+client_secret.json
+json_text.json
+secret.py
+__pycache__/
+venv/
+youtube-spotify-auto.py
